@@ -1,0 +1,23 @@
+{
+  "name": "shoot-server",
+  "version": "1.0.0",
+  "description": "The backend server for the Shoot App.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzMichael/shoot-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IzMichael/shoot-server/issues"
+  },
+  "homepage": "https://shoot.izmichael.xyz/selfhost",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "peer": "^0.6.1"
+  }
+}
